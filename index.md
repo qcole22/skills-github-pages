@@ -1,4 +1,2 @@
----
-#Title
-###Welcome to My Blog!
----
+## Title
+### Welcome to my blog
